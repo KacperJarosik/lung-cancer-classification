@@ -1,2 +1,3 @@
-# Ignore data files
-data/
+# Ignore other data files
+data/luna16/
+data/LIDC-IDRI/
